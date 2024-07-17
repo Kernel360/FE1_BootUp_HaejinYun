@@ -56,16 +56,16 @@
         "text-underline",
       ];
 
-      const $container = document.querySelector("#container");
+      const $container = document.querySelector("#container"); // 여러 숫자 item들이 들어갈 container
 
-      const $setColorButton = document.querySelectorAll("#set-color-button");
-      const $colorInput = document.querySelector("#id-input"); //컬러 input
+      const $setColorButton = document.querySelectorAll("#set-color-button"); //컬러 변경 버튼
+      const $colorInput = document.querySelector("#id-input"); //컬러 변경 input
 
-      const $setTextButton = document.querySelectorAll("#set-text-button");
-      const $classInput = document.querySelector("#class-input"); //텍스트 스타일 input
+      const $setTextButton = document.querySelectorAll("#set-text-button"); //텍스트 스타일 변경 버튼
+      const $classInput = document.querySelector("#class-input"); //텍스트 스타일 변경 input
 
-      const $resetButton = document.querySelector("#reset-button");
-      const $selectorInput = document.querySelector("#selector-input"); //selector input
+      const $resetButton = document.querySelector("#reset-button"); // 리셋 버튼
+      const $selectorInput = document.querySelector("#selector-input"); //selector reset input
 
       const initArray = Array.from(
         { length: MAX_VALUE },
