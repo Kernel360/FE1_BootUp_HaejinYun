@@ -10,13 +10,16 @@ boot-up 1일차 과정을 진행하고 새롭게 알게된 점, 느낀 점 등�
 * 순수 html, css, js로 Dom에 접근하여 요소를 수정하는 사이트 제작
 
   
-![ID](https://github.com/user-attachments/assets/fdf446af-ac77-4d91-833d-5b1194ee9ccf)
+<img src="https://github.com/user-attachments/assets/fdf446af-ac77-4d91-833d-5b1194ee9ccf" width="500" alt="ID">
+
 * id를 입력받아 뒷 배경 색을 수정하는 기능
 
-![class](https://github.com/user-attachments/assets/61ecbac8-0ca5-48cc-9358-4b83bdf1daf1)
+<img src="https://github.com/user-attachments/assets/61ecbac8-0ca5-48cc-9358-4b83bdf1daf1" width="500" alt="class">
+
 * class를 입력받아 글씨 스타일을 수정하는 기능
 
-![selector](https://github.com/user-attachments/assets/873e5d18-c9e7-4b27-bfbb-f6ef6a83d093)
+<img src="https://github.com/user-attachments/assets/873e5d18-c9e7-4b27-bfbb-f6ef6a83d093" width="500" alt="selector">
+
 * selector를 입력받아 모든 스타일을 초기화 하는 기능
 
 
